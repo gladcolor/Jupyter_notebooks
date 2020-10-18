@@ -1,1 +1,3 @@
-# Jupyter_notebooks
+# JupytetNoteBooks
+
+Daily works.
